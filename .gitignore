@@ -1,1 +1,9 @@
 .vscode
+
+.venv
+
+api_key.json
+
+__pycache__/
+
+.chuck_cache
